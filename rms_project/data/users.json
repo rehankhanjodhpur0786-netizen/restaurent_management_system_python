@@ -1,0 +1,92 @@
+[
+    {
+        "username": "ayan",
+        "password": "0786",
+        "role": "admin"
+    },
+    {
+        "username": "khan boy",
+        "password": "7860",
+        "role": "admin"
+    },
+    {
+        "username": "khan",
+        "password": "2211",
+        "role": "staff"
+    },
+    {
+        "username": "rafiq",
+        "password": "3232",
+        "role": "staff"
+    },
+    {
+        "username": "shoaib",
+        "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "role": "staff"
+    },
+    {
+        "username": "rehan khan",
+        "password": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+        "role": "staff"
+    },
+    {
+        "username": "shahmeer",
+        "password": "9af15b336e6a9619928537df30b2e6a2376569fcf9d7e773eccede65606529a0",
+        "role": "admin"
+    },
+    {
+        "username": "ronaldo",
+        "password": "888df25ae35772424a560c7152a1de794440e0ea5cfee62828333a456a506e05",
+        "role": "admin"
+    },
+    {
+        "username": "kailash sir ",
+        "password": "edee29f882543b956620b26d0ee0e7e950399b1c4222f5de05e06425b4c995e9",
+        "role": "admin"
+    },
+    {
+        "username": "kailash sir",
+        "password": "c1f330d0aff31c1c87403f1e4347bcc21aff7c179908723535f2b31723702525",
+        "role": "admin"
+    },
+    {
+        "username": "messi",
+        "password": "cbfad02f9ed2a8d1e08d8f74f5303e9eb93637d47f82ab6f1c15871cf8dd0481",
+        "role": "admin"
+    },
+    {
+        "username": "zed",
+        "password": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+        "role": "admin"
+    },
+    {
+        "username": "mohammed",
+        "password": "fe2592b42a727e977f055947385b709cc82b16b9a87f88c6abf3900d65d0cdc3",
+        "role": "admin"
+    },
+    {
+        "username": "ali",
+        "password": "79f06f8fde333461739f220090a23cb2a79f6d714bee100d0e4b4af249294619",
+        "role": "admin"
+    },
+    {
+        "username": "python -u \"d:\\myrmsproject2026\\rms_project\\main.py\"",
+        "password": "ddfdcb24768afa818e3bb2cf481b6c8a11795795f78236a1d77d40b92f0d020f",
+        "role": "staff"
+    },
+    {
+        "username": "almeer",
+        "password": "41c991eb6a66242c0454191244278183ce58cf4a6bcd372f799e4b9cc01886af",
+        "role": "admin"
+    },
+    {
+        "username": "op",
+        "password": "1ea2f89d934cb4a2af0b486736609cf9cb4bdafdc6e946e79aecb02b9d9dceb4",
+        "role": "admin"
+    },
+    {
+        "username": "shoaib mohammed",
+        "password": "4aeb7ad6d5d37a041c4c5ce6562bf9e3caf05a42d931cef4d9e2a60ca623194d",
+        "role": "staff"
+    }
+]

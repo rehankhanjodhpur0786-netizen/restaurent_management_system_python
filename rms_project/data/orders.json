@@ -1,0 +1,74 @@
+[
+    {
+        "username": "ali",
+        "role": "admin",
+        "item": {
+            "name": "Paneer Butter Masala",
+            "price": 220,
+            "type": "veg"
+        }
+    },
+    {
+        "username": "ali",
+        "role": "admin",
+        "item": {
+            "name": "Lemon Soda",
+            "price": 60,
+            "type": "drink"
+        }
+    },
+    {
+        "username": "ali",
+        "role": "admin",
+        "item": {
+            "name": "Coke",
+            "price": 40,
+            "type": "drink"
+        }
+    },
+    {
+        "username": "ali",
+        "role": "admin",
+        "item": {
+            "name": "Cold Coffee",
+            "price": 90,
+            "type": "drink"
+        }
+    },
+    {
+        "username": "almeer",
+        "role": "admin",
+        "item": {
+            "name": "Chocolate Mousse",
+            "price": 140,
+            "type": "dessert"
+        }
+    },
+    {
+        "username": "almeer",
+        "role": "admin",
+        "item": {
+            "name": "Idli Sambar",
+            "price": 100,
+            "type": "veg"
+        }
+    },
+    {
+        "username": "almeer",
+        "role": "admin",
+        "item": {
+            "name": "Waffle",
+            "price": 140,
+            "type": "dessert"
+        }
+    },
+    {
+        "username": "op",
+        "role": "admin",
+        "item": {
+            "name": "Veg Cutlet Plate",
+            "price": 90,
+            "type": "snack"
+        }
+    }
+]

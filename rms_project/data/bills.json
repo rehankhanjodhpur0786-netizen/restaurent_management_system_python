@@ -1,0 +1,81 @@
+[
+    {
+        "items": [
+            {
+                "name": "Pizza",
+                "price": 200
+            },
+            {
+                "name": "Burger",
+                "price": 120
+            }
+        ],
+        "total": 320
+    },
+    {
+        "items": [
+            {
+                "name": "Pizza",
+                "price": 200
+            },
+            {
+                "name": "Burger",
+                "price": 120
+            },
+            {
+                "name": "Lemon Soda",
+                "price": 60,
+                "type": "drink"
+            },
+            {
+                "name": "Chicken Biryani",
+                "price": 250,
+                "type": "nonveg"
+            },
+            {
+                "name": "Butter Chicken",
+                "price": 280,
+                "type": "nonveg"
+            }
+        ],
+        "total": 910
+    },
+    {
+        "items": [
+            {
+                "name": "Pizza",
+                "price": 200
+            },
+            {
+                "name": "Burger",
+                "price": 120
+            },
+            {
+                "name": "Lemon Soda",
+                "price": 60,
+                "type": "drink"
+            },
+            {
+                "name": "Chicken Biryani",
+                "price": 250,
+                "type": "nonveg"
+            },
+            {
+                "name": "Butter Chicken",
+                "price": 280,
+                "type": "nonveg"
+            },
+            {
+                "name": "Sprite",
+                "price": 40,
+                "type": "drink"
+            },
+            {
+                "name": "Sprite",
+                "price": 40,
+                "type": "drink"
+            }
+        ],
+        "total": 990
+    }
+]
